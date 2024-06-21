@@ -1,0 +1,41 @@
+body{
+  font-family: "Arial", "Meiryo", sans-serif
+}
+h1{font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+html{
+  font-size: 20px;
+}
+h1{
+  font-size: 2rem;
+}
+.text-color{
+  color:skyblue;
+}
+.text-color2{
+color: rgb(225, 192, 203);
+}
+.decoration2{
+  color: rgb(225, 192, 203)
+}
+.decoration3{
+color: skyblue
+}
+body{
+  text-align: center
+}
+h1{
+  letter-spacing: 1.2em;
+}
+h1{
+  text-shadow: 3px 1px 5px yellowgreen;
+}
+h1{
+  border-bottom: solid 3px rgb(115, 115, 114)
+}
+#basic > p {
+  font-weight: bold;
+}
